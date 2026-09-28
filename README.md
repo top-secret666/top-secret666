@@ -78,9 +78,7 @@ Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=top-secret666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top-secret666&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
+  <img height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/top-secret666?cardType=github&theme=tokyonight" alt="GitHub stats" />
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=top-secret666&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -104,7 +102,4 @@ Party        →  Solo adventurer — open to internships & team raids
 [![CV](https://img.shields.io/badge/CV-View_Portfolio-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://top-secret666.github.io/cv/)
 
 <br/>
-
-*Ship the microservice. Fix the auth. Level up.*
-
 </div>
