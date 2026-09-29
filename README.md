@@ -42,19 +42,19 @@ Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
 
 ```text
 [01] FOOD     —>  Food Delivery Platform (Microservices)
-[02] ANALIZ   —>  Genomic Data Analysis (Conference)
-[03] WITCHER  —>  The Witcher: Core Logic Engine (Java)
+[02] WITCHER  —>  The Witcher: Core Logic Engine (Java)
 ```
 
 | # | Code | Quest | Stack |
 | ---: | --- | --- | --- |
 | 01 | **FOOD** | [Food Delivery Platform](https://github.com/top-secret666/food) — microservices backend | Java · Spring · Kafka |
-| 02 | **ANALIZ** | [Genomic Data Analysis](https://github.com/top-secret666/Analiz) — RB1 mutation CNN | Python · TensorFlow |
-| 03 | **WITCHER** | [The Witcher: Core Logic](https://github.com/top-secret666/the-witcher) — Java game engine | Java |
-| 04 | **ARENA** | [Tournament Arena](https://github.com/top-secret666/Game_tournament_management) — LoL tournament CMS | Spring · Next.js |
-| 05 | **FLOW** | [FlowPlanner](https://github.com/top-secret666/FlowPlanner) — notes + Obsidian sync | Expo · TypeScript |
-| 06 | **POST** | [PostLab](https://github.com/top-secret666/PostLab) / [labs](https://github.com/top-secret666/labs) — blog CMS coursework | Laravel · PHP |
-| 07 | **GIFTS** | [Christmas Shop](https://github.com/top-secret666/christmas-shop) — festive gift showcase | HTML · CSS · JS |
+| 02 | **WITCHER** | [The Witcher: Core Logic](https://github.com/top-secret666/the-witcher) — Java game engine | Java |
+| 03 | **FIREBOY-WATERGIRL** | [Co-op puzzle platformer](https://github.com/top-secret666/fireboy-watergirl-multiplayer) — Two players. One temple | C++ · SFML|
+| 04 | **ANALIZ** | [Genomic Data Analysis](https://github.com/top-secret666/Analiz) — RB1 mutation CNN | Python · TensorFlow |
+| 05 | **ARENA** | [Tournament Arena](https://github.com/top-secret666/Game_tournament_management) — LoL tournament CMS | Spring · Next.js |
+| 06 | **FLOW** | [FlowPlanner](https://github.com/top-secret666/FlowPlanner) — notes + Obsidian sync | Expo · TypeScript |
+| 07 | **POST** | [PostLab](https://github.com/top-secret666/PostLab) / [labs](https://github.com/top-secret666/labs) — blog CMS coursework | Laravel · PHP |
+| 08 | **GIFTS** | [Christmas Shop](https://github.com/top-secret666/christmas-shop) — festive gift showcase | HTML · CSS · JS |
 
 <details>
 <summary><b>More side quests</b></summary>
