@@ -26,14 +26,17 @@ Unity 6 • C# • URP • ScriptableObjects • Git
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/URP-222222?style=flat-square&logo=unity&logoColor=white" alt="URP" />
+  <img src="https://img.shields.io/badge/ScriptableObjects-444444?style=flat-square" alt="ScriptableObjects" />
+  <img src="https://img.shields.io/badge/New_Input_System-555555?style=flat-square" alt="New Input System" />
+  <img src="https://img.shields.io/badge/ProBuilder-333333?style=flat-square" alt="ProBuilder" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="Rider" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+<p align="center">
+  <sub>Also: Java 17 · Spring Boot · PostgreSQL · Kafka · Docker</sub>
 </p>
 
 ---
