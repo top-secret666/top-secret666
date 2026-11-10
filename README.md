@@ -18,7 +18,7 @@
 Unity 6 • C# • URP • ScriptableObjects • Git
 
 [![Status](https://img.shields.io/badge/status-open_to_internships-2ea44f?style=for-the-badge)](https://github.com/top-secret666)
-[![Location](https://img.shields.io/badge/Vitebsk,_Belarus-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/top-secret666)
+[![Location](https://img.shields.io/badge/Vitebsk_·_Minsk-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/top-secret666)
 [![CV](https://img.shields.io/badge/CV-Portfolio-111111?style=for-the-badge&logo=github)](https://top-secret666.github.io/cv/)
 
 <img src="https://github.com/user-attachments/assets/63c92659-34a0-406b-9f39-6c13c429fe03" alt="pixel banner" width="780" />
