@@ -55,6 +55,26 @@ Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
 | 06 | **FLOW** | [FlowPlanner](https://github.com/top-secret666/FlowPlanner) — notes + Obsidian sync | Expo · TypeScript |
 | 07 | **POST** | [PostLab](https://github.com/top-secret666/PostLab) / [labs](https://github.com/top-secret666/labs) — blog CMS coursework | Laravel · PHP |
 | 08 | **GIFTS** | [Christmas Shop](https://github.com/top-secret666/christmas-shop) — festive gift showcase | HTML · CSS · JS |
+## Game Dev Quests (Unity)
+
+```text
+[U1] WONDERDOOR  —>  Surreal rooms behind magic doors (Unity 6)
+[U2] BACKROOMS   —>  Level 0 horror lab (Unity 6)
+[U3] WITCHER     —>  Moonlit Road, pixel-art pitch demo (Unity 6)
+[U4] NIGHT RIDE  —>  Witcher 02, pixel-art horse ride (Unity 6)
+```
+
+| # | Code | Quest | Stack |
+| ---: | --- | --- | --- |
+| U1 | **WONDERDOOR** | [WonderDoor](https://github.com/top-secret666/WonderDoor) — first-person exploration of rooms linked by magic doors, sunlit meadow and lamp-lit arc hall | Unity 6 · URP · C# |
+| U2 | **BACKROOMS** | [Backrooms Lab: Level 0](https://github.com/top-secret666/backrooms) — atmospheric horror with flickering fluorescent lights and a flashlight | Unity 6 · URP · C# |
+| U3 | **WITCHER** | [The Witcher: Moonlit Road](https://github.com/top-secret666/witcher) — dark-fantasy pixel-art demo, forest road revealing a castle | Unity 6 · URP · C# · Pixel art |
+| U4 | **NIGHT RIDE** | [Witcher 02: Night Ride](https://github.com/top-secret666/witcher-02) — night horse ride through fog and roadside pines | Unity 6 · URP · C# · Pixel art |
+
+<p align="center">
+  <a href="https://github.com/top-secret666/WonderDoor"><img src="https://raw.githubusercontent.com/top-secret666/WonderDoor/main/docs/screenshots/00_hero_meadow_windows.png" width="24%" alt="WonderDoor" /></a>
+  <a href="https://github.com/top-secret666/backrooms"><img src="https://raw.githubusercontent.com/top-secret666/backrooms/main/media/screenshots/01_level0_corridor.png" width="24%" alt="Backrooms Lab" /></a>
+</p>
 
 <details>
 <summary><b>More side quests</b></summary>
