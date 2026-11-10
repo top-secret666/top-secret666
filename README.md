@@ -13,9 +13,9 @@
 
 # Dana Stukalova
 
-**Java Backend Developer** · VSTU (Vitebsk) · open to internships
+**Junior Unity Developer** · VSTU (Vitebsk) · open to internships
 
-Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
+Unity 6 • C# • URP • ScriptableObjects • Git
 
 [![Status](https://img.shields.io/badge/status-open_to_internships-2ea44f?style=for-the-badge)](https://github.com/top-secret666)
 [![Location](https://img.shields.io/badge/Vitebsk,_Belarus-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/top-secret666)
@@ -37,24 +37,6 @@ Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
 </p>
 
 ---
-
-## Quest Log (Pinned)
-
-```text
-[01] FOOD     —>  Food Delivery Platform (Microservices)
-[02] WITCHER  —>  The Witcher: Core Logic Engine (Java)
-```
-
-| # | Code | Quest | Stack |
-| ---: | --- | --- | --- |
-| 01 | **FOOD** | [Food Delivery Platform](https://github.com/top-secret666/food) — microservices backend | Java · Spring · Kafka |
-| 02 | **WITCHER** | [The Witcher: Core Logic](https://github.com/top-secret666/the-witcher) — Java game engine | Java |
-| 03 | **FIREBOY-WATERGIRL** | [Co-op puzzle platformer](https://github.com/top-secret666/fireboy-watergirl-multiplayer) — Two players. One temple | C++ · SFML|
-| 04 | **ANALIZ** | [Genomic Data Analysis](https://github.com/top-secret666/Analiz) — RB1 mutation CNN | Python · TensorFlow |
-| 05 | **ARENA** | [Tournament Arena](https://github.com/top-secret666/Game_tournament_management) — LoL tournament CMS | Spring · Next.js |
-| 06 | **FLOW** | [FlowPlanner](https://github.com/top-secret666/FlowPlanner) — notes + Obsidian sync | Expo · TypeScript |
-| 07 | **POST** | [PostLab](https://github.com/top-secret666/PostLab) / [labs](https://github.com/top-secret666/labs) — blog CMS coursework | Laravel · PHP |
-| 08 | **GIFTS** | [Christmas Shop](https://github.com/top-secret666/christmas-shop) — festive gift showcase | HTML · CSS · JS |
 ## Game Dev Quests (Unity)
 
 ```text
@@ -75,6 +57,24 @@ Spring Boot · Microservices · Kafka · Keycloak · PostgreSQL
   <a href="https://github.com/top-secret666/WonderDoor"><img src="https://raw.githubusercontent.com/top-secret666/WonderDoor/main/docs/screenshots/00_hero_meadow_windows.png" width="24%" alt="WonderDoor" /></a>
   <a href="https://github.com/top-secret666/backrooms"><img src="https://raw.githubusercontent.com/top-secret666/backrooms/main/media/screenshots/01_level0_corridor.png" width="24%" alt="Backrooms Lab" /></a>
 </p>
+
+## Quest Log (Pinned)
+
+```text
+[01] FOOD     —>  Food Delivery Platform (Microservices)
+[02] WITCHER  —>  The Witcher: Core Logic Engine (Java)
+```
+
+| # | Code | Quest | Stack |
+| ---: | --- | --- | --- |
+| 01 | **FOOD** | [Food Delivery Platform](https://github.com/top-secret666/food) — microservices backend | Java · Spring · Kafka |
+| 02 | **WITCHER** | [The Witcher: Core Logic](https://github.com/top-secret666/the-witcher) — Java game engine | Java |
+| 03 | **FIREBOY-WATERGIRL** | [Co-op puzzle platformer](https://github.com/top-secret666/fireboy-watergirl-multiplayer) — Two players. One temple | C++ · SFML|
+| 04 | **ANALIZ** | [Genomic Data Analysis](https://github.com/top-secret666/Analiz) — RB1 mutation CNN | Python · TensorFlow |
+| 05 | **ARENA** | [Tournament Arena](https://github.com/top-secret666/Game_tournament_management) — LoL tournament CMS | Spring · Next.js |
+| 06 | **FLOW** | [FlowPlanner](https://github.com/top-secret666/FlowPlanner) — notes + Obsidian sync | Expo · TypeScript |
+| 07 | **POST** | [PostLab](https://github.com/top-secret666/PostLab) / [labs](https://github.com/top-secret666/labs) — blog CMS coursework | Laravel · PHP |
+| 08 | **GIFTS** | [Christmas Shop](https://github.com/top-secret666/christmas-shop) — festive gift showcase | HTML · CSS · JS |
 
 <details>
 <summary><b>More side quests</b></summary>
